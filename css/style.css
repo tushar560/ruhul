@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-repeat:no-repeat ; 
+    background-attachment: fixed;
+    background-size: 100%;
+    color: beige;
+}
+.main{
+    width: 60%;
+    background-color: rgb(109, 104, 104);
+  margin-left: 10px;
+    padding-left: 7px;
+    margin: auto;
+    margin-top: 4%;
+}
+h2{
+    font-size: 30px;
+    color: darkgreen;
+}
+h1{
+    font: size 40px;
+    text-align: center;
+    color: blue;
+}
+p{
+    color: black;
+    text-align: center;
+    font-size: larger;
+}
+.nd{
+     font-size: 22px;
+}
+.em{
+    color: black;
+    text-align: left;
+}
+.email{
+    width: 40%;
+    height: 30px;
+}
+.ps{
+    color: black;
+    text-align: left;  
+}
+.password{
+    width: 40%;
+    height: 30px;
+}
+.button{
+    color: black;
+    font-size: larger;
+    width: 100%;
+    margin: 0%;
+    padding: 0;
+    margin-top: 10%;
+}
+.log{
+    width: 49%;
+    height: 30px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-size: large;
+    color: black;
+    background-color: blueviolet;
+    
+}
+.reg{
+    width: 49%;
+    height: 30px;
+    margin-left: 5px;
+    padding-right: 5px;
+    text-decoration: none;
+    font-size: large;
+    background-color: greenyellow;
+}
+
+
